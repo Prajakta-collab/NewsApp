@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="message_fetching">Loading Please Wait..</string>
+    <string name="message_no_internet">No Internet Connection</string>
+    <string name="message_no_news">No News Found</string>
+    <string name="web_title">Title</string>
+    <string name="section_name">Section Name</string>
+    <string name="date">Date</string>
+    <string name="author">Author</string>
+</resources>
